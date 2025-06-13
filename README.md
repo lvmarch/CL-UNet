@@ -2,7 +2,7 @@
 
 ## Authors
 Jinrong Lv, Ning Chen, Weili Jiang, Xun Gong*  
-**Corresponding author:** Xun Gong  *IEEE Member*  
+**Corresponding author:** Xun Gong **
 
 **Affiliations:**  
 School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, Sichuan, China  
