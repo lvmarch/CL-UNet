@@ -21,4 +21,4 @@ This paper is currently under peer review. The code will be released upon accept
 - **Xun Gong**: xgong@swjtu.edu.cn
 
 ## Todo
-- [ ] Code release after paper acceptance
+- [ ] Code release after paper acceptance.
